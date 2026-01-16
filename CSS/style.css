@@ -35,6 +35,9 @@ a {
     color: rgb(31, 31, 31);
 }
 
+a:hover {
+    color: rgb(53, 53, 53);
+}
 
 img {
     width: 100%;
